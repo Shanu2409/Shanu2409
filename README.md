@@ -98,27 +98,23 @@ Welcome to my GitHub profile! I'm Shanu, a passionate Full-Stack Developer from 
 ## 🏆 GitHub Achievements
 
 <!-- GitHub Activity Graph -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanu2409&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanu2409&theme=radical)](https://git.io/streak-stats)
 
 <!-- GitHub Stats -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanu2409&show_icons=true&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanu2409&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Top Languages -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanu2409&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanu2409&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Famous Repositories
 
 <!-- Repository Card Grid -->
-[![Famous Repositories](https://github-readme-stats.vercel.app/api/pin/?username=shanu2409&repo=Modern_CV&theme=onedark)](https://github.com/your-github-username/your-repo-name)
-
-## 🔥 GitHub Streak Stats
-
-![Your GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shanu2409&theme=radical)
+[![Famous Repositories](https://github-readme-stats.vercel.app/api/pin/?username=shanu2409&repo=Modern_CV&theme=radical)](https://github.com/Shanu2409/Modern_CV)
+[![Famous Repositories](https://github-readme-stats.vercel.app/api/pin/?username=shanu2409&repo=SPortfolio&theme=radical)](https://github.com/Shanu2409/SPortfolio)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shanu2409&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shanu2409&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
