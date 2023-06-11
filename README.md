@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile! I'm Shanu, a passionate Full-Stack Developer from Mumbai. 
 
-<img  src="https://media.licdn.com/dms/image/D4D16AQFB1k9r_VksXA/profile-displaybackgroundimage-shrink_350_1400/0/1672242979238?e=1692230400&v=beta&t=qKkc_7EJ4sWHp5jmDoEqt-EzrJDoEL-a9EKxV_Q18d0" alt="banner" />
+<img src="https://media.licdn.com/dms/image/D4D16AQFB1k9r_VksXA/profile-displaybackgroundimage-shrink_350_1400/0/1672242979238?e=1692230400&v=beta&t=qKkc_7EJ4sWHp5jmDoEqt-EzrJDoEL-a9EKxV_Q18d0" alt="banner" style="border-radius: 8px; border: white 1px solid; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">
+
 
 ## 🔭 Current Projects
 
@@ -94,9 +95,21 @@ Welcome to my GitHub profile! I'm Shanu, a passionate Full-Stack Developer from 
 ![BlockChain](https://img.shields.io/badge/-Blockchain-FF6C37?style=flat-square&logo=Blockchain&logoColor=white)
 
 
-## 📊 GitHub Stats
+## 🏆 GitHub Achievements
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shanu2409&show_icons=true&theme=radical)
+<!-- GitHub Activity Graph -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanu2409&theme=onedark)](https://git.io/streak-stats)
+
+<!-- GitHub Stats -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shanu2409&show_icons=true&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Top Languages -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanu2409&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌟 Famous Repositories
+
+<!-- Repository Card Grid -->
+[![Famous Repositories](https://github-readme-stats.vercel.app/api/pin/?username=shanu2409&repo=Modern_CV&theme=onedark)](https://github.com/your-github-username/your-repo-name)
 
 ## 🔥 GitHub Streak Stats
 
