@@ -106,6 +106,13 @@ Welcome to my GitHub profile! I'm Shanu, a passionate Full-Stack Developer from 
 <!-- Top Languages -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanu2409&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<!-- LeetCode stats -->
+
+<br />
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=shanusingh2409&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 ## 🌟 Famous Repositories
 
 <!-- Repository Card Grid -->
