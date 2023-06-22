@@ -109,8 +109,6 @@ Welcome to my GitHub profile! I'm Shanu, a passionate Full-Stack Developer from 
 
 <!-- LeetCode stats -->
 
-<br />
-
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=shanusingh2409&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ## 🌟 Famous Repositories
