@@ -62,6 +62,8 @@ Welcome to my GitHub profile! I'm Shanu, a passionate Full-Stack Developer from 
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
 
 ## Backend as a Service (BaaS)
 
