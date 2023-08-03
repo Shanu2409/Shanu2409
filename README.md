@@ -48,6 +48,7 @@ Welcome to my GitHub profile! I'm Shanu, a passionate Full-Stack Developer from 
 ## AI/ML
 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 ## Database
 
@@ -63,6 +64,7 @@ Welcome to my GitHub profile! I'm Shanu, a passionate Full-Stack Developer from 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 
 ## Backend as a Service (BaaS)
