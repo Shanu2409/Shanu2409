@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm Shanu, a passionate Full-Stack Developer from Mumbai. 
 
-<img src="https://media.licdn.com/dms/image/D4D16AQFB1k9r_VksXA/profile-displaybackgroundimage-shrink_350_1400/0/1672242979238?e=1692230400&v=beta&t=qKkc_7EJ4sWHp5jmDoEqt-EzrJDoEL-a9EKxV_Q18d0" alt="banner" style="border-radius: 8px; border: white 1px solid; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">
+<img src="https://media.licdn.com/dms/image/D4D16AQFB1k9r_VksXA/profile-displaybackgroundimage-shrink_350_1400/0/1672242979238?e=1698883200&v=beta&t=JGCPPbJCKqoPdK6IQdh71MBKcuii79yW_lIH4CnLS2s" alt="banner" style="border-radius: 8px; border: white 1px solid; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">
 
 
 ## Programming Languages
