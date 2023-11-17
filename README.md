@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm Shanu, a passionate Full-Stack Developer from Mumbai. 
 
-<img src="https://media.licdn.com/dms/image/D4D16AQFB1k9r_VksXA/profile-displaybackgroundimage-shrink_350_1400/0/1672242979238?e=1698883200&v=beta&t=JGCPPbJCKqoPdK6IQdh71MBKcuii79yW_lIH4CnLS2s" alt="banner" style="border-radius: 8px; border: white 1px solid; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">
+<img src="https://media.licdn.com/dms/image/D4D16AQFB1k9r_VksXA/profile-displaybackgroundimage-shrink_350_1400/0/1672243033877?e=1705536000&v=beta&t=1XS2maKf4LkGKgdGpkmWUWlHZNSBRUzP7UKYQjWBJXI" alt="banner" style="border-radius: 8px; border: white 1px solid; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">
 
 
 ## Programming Languages
@@ -41,9 +41,11 @@ Welcome to my GitHub profile! I'm Shanu, a passionate Full-Stack Developer from 
 
 ![Java Android Development](https://img.shields.io/badge/-Java%20Android%20Development-3DDC84?style=flat-square&logo=java&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Cordova](https://img.shields.io/badge/-Cordova-E8E8E8?style=flat-square&logo=apache-cordova&logoColor=black)
+
 
 ## AI/ML
 
@@ -110,6 +112,8 @@ Welcome to my GitHub profile! I'm Shanu, a passionate Full-Stack Developer from 
 <!-- LeetCode stats -->
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=shanusingh2409&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+[![shanusingh2409's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=shanusingh2409&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 ## 🌟 Famous Repositories
 
