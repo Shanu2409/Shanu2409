@@ -1,38 +1,57 @@
 <div align="center">
 
-<!-- Enhanced Banner with Gradient Overlay -->
-<img src="4368.jpg" alt="Shanu Singh - Full-Stack Developer" width="100%" style="border-radius: 20px; margin: 20px 0; box-shadow: 0 20px 50px rgba(0, 217, 255, 0.3), 0 10px 30px rgba(0, 0, 0, 0.4); border: 2px solid transparent; background: linear-gradient(45deg, #00D9FF, #FF6B6B) padding-box, linear-gradient(45deg, #00D9FF, #FF6B6B) border-box;">
+<!-- ╔══════════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                         🌐 WELCOME TO MY DIGITAL UNIVERSE 🌐                 ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- Animated Title with Gradient Text -->
-<h1 style="background: linear-gradient(45deg, #00D9FF, #FF6B6B, #4ECDC4); background-size: 300% 300%; animation: gradient 3s ease infinite; -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3.5rem; font-weight: 800; margin: 30px 0 10px 0;">
-  🚀 Hey there! I'm Shanu Singh 👋
-</h1>
+<img src="4368.jpg" alt="Shanu Singh - Full-Stack Developer Banner" width="100%">
 
-<!-- Enhanced Subtitle with Icons -->
-<h3 style="color: #00D9FF; font-size: 1.4rem; margin-bottom: 30px; font-weight: 600;">
-  💫 Full-Stack Developer | 🔥 Tech Innovator | 🎯 Problem Solver | 🌟 Code Artist
-</h3>
+<br/>
 
-<!-- Dynamic Typing Animation with Enhanced Styling -->
-<div style="background: rgba(0, 217, 255, 0.1); padding: 20px; border-radius: 15px; margin: 20px 0; backdrop-filter: blur(10px); border: 1px solid rgba(0, 217, 255, 0.2);">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+from+Mumbai+🏙️;Building+Next-Gen+Web+Applications+🚀;Expert+in+React%2C+Node.js+%26+Python+💻;Always+Learning+New+Technologies+📚;Creating+Amazing+Digital+Experiences+✨;Turning+Ideas+into+Reality+🎨" alt="Typing Animation" />
+<!-- ══════════════════════════════ TITLE SECTION ══════════════════════════════ -->
+
+# 🚀 **HEY THERE! I'M SHANU SINGH** 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=💫+Full-Stack+Developer+from+Mumbai+🏙️;🔥+Building+Next-Gen+Web+Applications+🚀;💻+Expert+in+React%2C+Node.js+%26+Python;📚+Always+Learning+New+Technologies;✨+Creating+Amazing+Digital+Experiences;🎨+Turning+Ideas+into+Reality" alt="Typing Animation" />
+
+<br/>
+
+### ✨ **Full-Stack Developer** • 🔥 **Tech Innovator** • 🎯 **Problem Solver** • 🌟 **Code Artist**
+
+<br/>
+
+<!-- ══════════════════════════════ STATS BADGES ══════════════════════════════ -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shanu2409&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Shanu2409?color=00D9FF&style=for-the-badge&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Shanu2409?color=00D9FF&style=for-the-badge&label=TOTAL+STARS" alt="Stars" />
+</p>
+
 </div>
 
-<!-- Social Stats in a Row -->
-<div style="display: flex; justify-content: center; gap: 15px; margin: 25px 0; flex-wrap: wrap;">
-  <img src="https://komarev.com/ghpvc/?username=Shanu2409&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Shanu2409?color=00D9FF&style=for-the-badge&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Shanu2409?color=00D9FF&style=for-the-badge&label=Total+Stars" alt="GitHub Stars" />
-</div>
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-</div>
+<br/>
 
-<!-- Professional Summary Section -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## 👨‍💻 About Me
+<br/>
+
+## 👨‍💻 **ABOUT ME**
+
+<div align="center">
+
+```ascii
+╔════════════════════════════════════════════════════════════════════════╗
+║  "Code is like humor. When you have to explain it, it's bad."         ║
+║                                                    — Cory House          ║
+╚════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <div align="center">
   <table>
@@ -84,9 +103,31 @@ const shanuSingh = {
   </table>
 </div>
 
----
+<br/>
 
-## 🛠️ Programming Languages
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+## 🛠️ **PROGRAMMING LANGUAGES**
+
+<div align="center">
+
+```ascii
+┌─────────────────────────────────────────────────────────────────────┐
+│  💡 "Any fool can write code that a computer can understand.       │
+│      Good programmers write code that humans can understand."      │
+│                                              — Martin Fowler        │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -97,30 +138,40 @@ const shanuSingh = {
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
 
-<div align="center" style="margin: 20px 0;">
+<br/>
 
-### 💻 Core Languages
+<div align="center">
+
+### 💻 **Core Languages**
 
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
 
-### 🌐 Web Technologies
+### 🌐 **Web Technologies**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=239120)
 
-### ⛓️ Blockchain
+### ⛓️ **Blockchain**
 
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=363636)
 
 </div>
 
----
+<br/>
 
-## 🎨 Frontend Development
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+## 🎨 **FRONTEND DEVELOPMENT**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
@@ -129,15 +180,19 @@ const shanuSingh = {
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80">
 </div>
 
+<br/>
+
 <div align="center">
 
-### ⚛️ Frameworks & Libraries
+### ⚛️ **Frameworks & Libraries**
+
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white&labelColor=000000)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white&labelColor=512BD4)
 
-### 🎨 Styling & Design
+### 🎨 **Styling & Design**
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
@@ -146,126 +201,189 @@ const shanuSingh = {
 
 </div>
 
----
+<br/>
 
-## ⚡ Backend Development
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+## ⚡ **BACKEND DEVELOPMENT**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
 </div>
 
+<br/>
+
 <div align="center">
 
-### 🚀 Server Technologies
+### 🚀 **Server Technologies**
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white&labelColor=512BD4)
 
-### 🐍 Python Frameworks
+### 🐍 **Python Frameworks**
+
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688)
 
 </div>
 
----
+<br/>
 
-## 📱 Mobile Development
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+## 📱 **MOBILE DEVELOPMENT**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
 </div>
 
+<br/>
+
 <div align="center">
 
-### 📲 Cross-Platform Frameworks
+### 📲 **Cross-Platform Frameworks**
+
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
 ![Cordova](https://img.shields.io/badge/-Cordova-E8E8E8?style=for-the-badge&logo=apache-cordova&logoColor=black&labelColor=E8E8E8)
 
-### 🤖 Native Development
+### 🤖 **Native Development**
+
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2)
 
 </div>
 
----
+<br/>
 
-## 🗄️ Database Technologies
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+## 🗄️ **DATABASE TECHNOLOGIES**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 </div>
 
+<br/>
+
 <div align="center">
 
-### 🍃 NoSQL Databases
+### 🍃 **NoSQL Databases**
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D)
 
-### 🗃️ SQL Databases
+### 🗃️ **SQL Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=003B57)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=F80000)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=CC2927)
 
-### ☁️ Cloud Databases
+### ☁️ **Cloud Databases**
+
 ![PlanetScale](https://img.shields.io/badge/-PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white&labelColor=000000)
 
 </div>
 
----
+<br/>
 
-## 🤖 AI/ML & Automation
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+## 🤖 **AI/ML & AUTOMATION**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
+<br/>
+
 <div align="center">
 
-### 🧠 Machine Learning & AI
+### 🧠 **Machine Learning & AI**
+
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C)
 ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=5C3EE8)
 
-### 🎯 Data Science & Analysis
+### 🎯 **Data Science & Analysis**
+
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=11557c)
 
-### 🔧 Automation & Testing
+### 🔧 **Automation & Testing**
+
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=43B02A)
 
 </div>
 
----
+<br/>
 
-## ☁️ DevOps & Cloud Technologies
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+## ☁️ **DEVOPS & CLOUD TECHNOLOGIES**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
+<br/>
+
 <div align="center">
 
-### 🐳 Containerization & Orchestration
+### 🐳 **Containerization & Orchestration**
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=326CE5)
 
-### ☁️ Cloud Platforms
+### ☁️ **Cloud Platforms**
+
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF9900)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=430098)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7)
 
-### 🔧 Version Control & Tools
+### 🔧 **Version Control & Tools**
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624)
@@ -273,59 +391,92 @@ const shanuSingh = {
 
 </div>
 
----
+<br/>
 
-## 🛠️ Development Tools & IDEs
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+## 🛠️ **DEVELOPMENT TOOLS & IDEs**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 </div>
 
+<br/>
+
 <div align="center">
 
-### 💻 Code Editors & IDEs
+### 💻 **Code Editors & IDEs**
+
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=5C2D91)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=000000)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=000000)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=3DDC84)
 
-### 🔧 Development Tools
+### 🔧 **Development Tools**
+
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white&labelColor=5849BE)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF)
 
-### 📊 Analytics & Monitoring
+### 📊 **Analytics & Monitoring**
+
 ![Spyder](https://img.shields.io/badge/-Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white&labelColor=FF0000)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626)
 
 </div>
 
----
+<br/>
 
-## 🚀 Blockchain & Web3
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+## 🚀 **BLOCKCHAIN & WEB3**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
 </div>
 
+<br/>
+
 <div align="center">
 
-### ⛓️ Blockchain Technologies
+### ⛓️ **Blockchain Technologies**
+
 ![Blockchain](https://img.shields.io/badge/-Blockchain-000000?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=000000)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=3C3C3D)
 ![Solidity](https://img.shields.io/badge/-Smart%20Contracts-363636?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=363636)
 
-### 🌐 Web3 Development
+### 🌐 **Web3 Development**
+
 ![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3-dot-js&logoColor=white&labelColor=F16822)
 ![MetaMask](https://img.shields.io/badge/-MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white&labelColor=F6851B)
 
 </div>
 
----
+<br/>
 
-## 🎯 Current Focus & Goals
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+## 🎯 **CURRENT FOCUS & GOALS**
 
 <div align="center">
   <table>
@@ -372,23 +523,33 @@ const shanuSingh = {
   </table>
 </div>
 
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
----
+<br/>
 
-<div align="center">
+## 📊 **GITHUB STATISTICS**
 
-## 📊 GitHub Statistics
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 </div>
 
+<br/>
+
 <div align="center">
-  
-### 📈 My GitHub Journey
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════╗
+║                    📈 MY GITHUB JOURNEY                           ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
 <table>
 <tr>
@@ -421,33 +582,73 @@ const shanuSingh = {
 
 </div>
 
----
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-## 🏆 GitHub Achievements & Trophies
+<br/>
+
+## 🏆 **GITHUB ACHIEVEMENTS & TROPHIES**
+
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-### 🎖️ My Achievement Collection
+<br/>
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════╗
+║              🎖️  MY ACHIEVEMENT COLLECTION  🎖️                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shanu2409&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=3&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest)
 
 </div>
 
----
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-## 💻 Coding Profiles & Statistics
+<br/>
+
+## 💻 **CODING PROFILES & STATISTICS**
+
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-### 🧠 LeetCode Journey
+<br/>
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════╗
+║                     🧠 LEETCODE JOURNEY 🧠                        ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -468,7 +669,8 @@ const shanuSingh = {
 </tr>
 </table>
 
-### 📈 Coding Achievements
+### 📈 **Coding Achievements**
+
 - 💯 **500+** Problems Solved
 - 🏆 **Consistent** Daily Practice
 - 🎯 **Algorithm** & **Data Structure** Expert
@@ -476,17 +678,37 @@ const shanuSingh = {
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-## 🌟 Featured Projects & Portfolio
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-### 💼 My Best Work
+<br/>
+
+## 🌟 **FEATURED PROJECTS & PORTFOLIO**
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════╗
+║                      💼 MY BEST WORK 💼                           ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -511,7 +733,8 @@ const shanuSingh = {
 </tr>
 </table>
 
-### 🎯 Project Highlights
+### 🎯 **Project Highlights**
+
 - 🌐 **Full-Stack Applications** with modern architecture
 - 📱 **Responsive Design** across all devices
 - ⚡ **Performance Optimized** for best user experience  
@@ -520,17 +743,27 @@ const shanuSingh = {
 
 </div>
 
----
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-## 🌐 Let's Connect & Collaborate
+<br/>
+
+## 🌐 **LET'S CONNECT & COLLABORATE**
+
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-### 📱 Social Media & Professional Links
+<br/>
+
+### 📱 **Social Media & Professional Links**
 
 <div align="center">
 
@@ -541,7 +774,7 @@ const shanuSingh = {
 
 </div>
 
-### 🌟 Portfolio & Live Projects
+### 🌟 **Portfolio & Live Projects**
 
 <div align="center">
 
@@ -551,7 +784,9 @@ const shanuSingh = {
 
 </div>
 
-### 💬 Open for Opportunities
+<br/>
+
+### 💬 **Open for Opportunities**
 
 - 💼 **Full-time opportunities** in Full-Stack Development
 - 🤝 **Freelance projects** and collaborations  
@@ -561,52 +796,98 @@ const shanuSingh = {
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-## � Thank You for Visiting!
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-</div>
-
-### 💭 Inspirational Quote
-
-<div style="background: linear-gradient(45deg, rgba(0, 217, 255, 0.1), rgba(255, 107, 107, 0.1)); padding: 25px; border-radius: 15px; margin: 20px 0; border: 1px solid rgba(0, 217, 255, 0.3);">
-
-*"The best way to predict the future is to create it."*  
-**— Peter Drucker**
-
-</div>
-
-### 🚀 Let's Build Something Amazing Together!
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shanu2409&color=00D9FF&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Shanu2409?color=00D9FF&style=for-the-badge&label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/Shanu2409?color=00D9FF&style=for-the-badge&label=Total+Stars)
-
-</div>
-
-### 🌟 Show Some Love
-
-**⭐ Star some repositories if you find them interesting!**  
-**🤝 Let's connect and collaborate on exciting projects!**  
-**💬 Feel free to reach out for any opportunities or discussions!**
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
----
+<br/>
 
-<div style="text-align: center; padding: 20px; background: linear-gradient(45deg, #00D9FF, #FF6B6B); background-size: 400% 400%; animation: gradient 15s ease infinite; border-radius: 10px; margin: 20px 0;">
+## 💖 **THANK YOU FOR VISITING!**
 
-### Made with ❤️ by Shanu Singh
-*Crafted with passion, coded with precision* 🚀
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+</div>
+
+<br/>
+
+### 💭 **Inspirational Quote**
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║  "The best way to predict the future is to create it."           ║
+║                                              — Peter Drucker      ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
+
+<br/>
+
+### 🚀 **Let's Build Something Amazing Together!**
+
+<div align="center">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shanu2409&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Shanu2409?color=00D9FF&style=for-the-badge&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Shanu2409?color=00D9FF&style=for-the-badge&label=TOTAL+STARS" alt="Stars" />
+</p>
+
+</div>
+
+<br/>
+
+### 🌟 **Show Some Love**
+
+<div align="center">
+
+**⭐ Star some repositories if you find them interesting!**  
+**🤝 Let's connect and collaborate on exciting projects!**  
+**💬 Feel free to reach out for any opportunities or discussions!**
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║            Made with ❤️ by Shanu Singh                            ║
+║         Crafted with passion, coded with precision 🚀             ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+**© 2025 Shanu Singh | Full-Stack Developer | Tech Innovator**
+
+<br/>
+
+```ascii
+┌───────────────────────────────────────────────────────────────────┐
+│  ⚡ Powered by Innovation • Driven by Passion • Built with Code  │
+└───────────────────────────────────────────────────────────────────┘
+```
 
 </div>
